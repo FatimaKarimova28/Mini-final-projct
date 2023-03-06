@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Data/Data.csproj": {}
+  },
+  "projects": {
+    "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Core/Core.csproj",
+        "packagesPath": "/Users/ibrahimova.fatima.israyilgmail.com/.nuget/packages/",
+        "outputPath": "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimova.fatima.israyilgmail.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Data/Data.csproj",
+        "packagesPath": "/Users/ibrahimova.fatima.israyilgmail.com/.nuget/packages/",
+        "outputPath": "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ibrahimova.fatima.israyilgmail.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Core/Core.csproj": {
+                "projectPath": "/Users/ibrahimova.fatima.israyilgmail.com/Desktop/My Code/Mini Final Project/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
