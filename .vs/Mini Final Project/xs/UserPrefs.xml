@@ -1,10 +1,28 @@
 ﻿<Properties StartupConfiguration="{68BCCB00-A4D5-4547-8839-756213FC1CD6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Program.cs">
+    <Files>
+      <File FileName="Data/Repositories/DbInitializer.cs" />
+      <File FileName="Presentation/Program.cs" Line="325" Column="95" />
+      <File FileName="Data/Contexts/DbContext.cs" />
+      <File FileName="Core/Entities/Owner.cs" />
+      <File FileName="Presentation/Services/OwnerService.cs" Line="1" Column="1" />
+      <File FileName="Data/Repositories/Concrete/OwnerRepository.cs" />
+      <File FileName="Data/Repositories/Abstract/IOwnerRepository.cs" />
+      <File FileName="Data/Repositories/Abstract/IRepository.cs" />
+      <File FileName="Data/Repositories/Concrete/DruggistRepository.cs" />
+      <File FileName="Core/Constants/OwnerOptions.cs" />
+      <File FileName="Data/Repositories/Concrete/AdminRepository.cs" Line="1" Column="1" />
+      <File FileName="Data/Repositories/Concrete/DrugRepository.cs" Line="1" Column="1" />
+      <File FileName="Presentation/Services/DrugService.cs" Line="1" Column="1" />
+      <File FileName="Core/Entities/Drug.cs" Line="1" Column="1" />
+      <File FileName="Core/Constants/DrugOptions.cs" Line="1" Column="1" />
+      <File FileName="Core/Constants/DrugstoreOptions.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -23,15 +41,14 @@
               </Node>
             </Node>
             <Node name="Presentation" expanded="True">
-              <Node name="Services" expanded="True">
-                <Node name="DrugstoreService.cs" selected="True" />
-              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Presentation PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

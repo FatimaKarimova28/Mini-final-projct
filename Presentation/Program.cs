@@ -242,8 +242,8 @@ namespace Presentation
                                                     ConsoleHelper.WriteWithColor("1 - Create a Druggist", ConsoleColor.Yellow);
                                                     ConsoleHelper.WriteWithColor("2 - Update a Druggist", ConsoleColor.Yellow);
                                                     ConsoleHelper.WriteWithColor("3 - Get All Druggists", ConsoleColor.Yellow);
-                                                    ConsoleHelper.WriteWithColor("5 - Get All Druggists By Drugstore", ConsoleColor.Yellow);
-                                                    ConsoleHelper.WriteWithColor("3 - Delete a Druggist", ConsoleColor.Yellow);
+                                                    ConsoleHelper.WriteWithColor("4 - Get All Druggists By Drugstore", ConsoleColor.Yellow);
+                                                    ConsoleHelper.WriteWithColor("5 - Delete a Druggist", ConsoleColor.Yellow);
 
 
 
@@ -322,7 +322,8 @@ namespace Presentation
                                                     ConsoleHelper.WriteWithColor("2 - Update a Drug", ConsoleColor.DarkCyan);
                                                     ConsoleHelper.WriteWithColor("3 - Get All Drugs", ConsoleColor.DarkCyan);
                                                     ConsoleHelper.WriteWithColor("4 - Get All Drugs By Drugstore", ConsoleColor.DarkCyan);
-                                                    ConsoleHelper.WriteWithColor("5 - Delete a Drug", ConsoleColor.DarkCyan);
+                                                      ConsoleHelper.WriteWithColor("5 - Filter", ConsoleColor.DarkCyan);
+                                                    ConsoleHelper.WriteWithColor("6 - Delete a Drug", ConsoleColor.DarkCyan);
 
 
 
